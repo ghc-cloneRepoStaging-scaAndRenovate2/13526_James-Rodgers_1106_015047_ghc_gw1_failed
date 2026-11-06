@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
-    "qs_661": "npm:qs@6.6.1"
+    "qs_661": "npm:qs@6.16.0"
   }
 }
